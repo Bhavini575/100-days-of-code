@@ -1,7 +1,7 @@
 earth_weight = float(input("Enter your weight on Earth (in kg): "))
 
 
-planet = int(input("Enter the planet number (1-7): "))
+planet = int(input("Enter  planet number (1-7): "))
 
 if planet == 1:
     gravity = 0.38      
