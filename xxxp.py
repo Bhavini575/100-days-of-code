@@ -21,7 +21,7 @@ else:
     gravity = None
 
 if gravity is None:
-    print("Invalid planet number")
+    print("Invalid planet no")
 else:
     destination_weight = earth_weight * gravity
     print("Your weight on the selected planet is:", destination_weight)
