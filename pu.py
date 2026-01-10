@@ -1,1 +1,1 @@
-print("whtt now")
+print("nthing they are fool")
