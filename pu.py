@@ -1,1 +1,1 @@
-print("nthing they are fool")
+print("big fool")
